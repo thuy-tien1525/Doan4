@@ -1,0 +1,12 @@
+﻿email,password,expected_result
+,,Please fill out this field.
+thuytien01gmail.com,Tien15,Please include an '@' in the email address. 'thuytien01gmail.com' is missing an '@'.
+thuytien01@gmail.com,Tien15,Thông tin đăng nhập không hợp lệ.
+thuytien010524@gmail.com,Tien13,Thông tin đăng nhập không hợp lệ.
+thuytien01@,Tien15,Please enter a part following '@'. 'thuytien01@' is incomplete.
+thuytien010524@@gmail.com,Tien15,A part following '@' should not contain the symbol '@'.
+thuytien010524@gmail..com,Tien15,'.' is used at a wrong position in 'gmail..com'.
+thuytien010524@gmail.com,Ti,Thông tin đăng nhập không hợp lệ.
+,Tien15,Please fill out this field.
+thuytien1524@gmail.com,,Please fill out this field.
+thuytien010524@gmail.com,Tien15,"Hi, Phạm Tiên"
