@@ -1,0 +1,7 @@
+﻿Họ và tên,Email,Số điện thoại,Địa chỉ ,Tỉnh,Huyện ,Xã,expected_result
+,mai12@gmail.com,0324567654,"Hòa An, Cẩm Lệ, Đà Nẵng",Đà Nẵng,Quận Cẩm Lệ,Phường Hòa An,Vui lòng nhập họ tên
+Mai Nguyễn,mai12@gmail.com,032456765523,"Hòa An, Cẩm Lệ, Đà Nẵng",Đà Nẵng,Quận Cẩm Lệ,Phường Hòa An,"Số điện thoại không hợp lệ (độ dài từ 8 - 15 ký tự, không chứa ký tự đặc biệt và khoảng trắng)"
+Mai Nguyễn,mai34,0324567654,"Hòa An, Cẩm Lệ, Đà Nẵng",Đà Nẵng,Quận Cẩm Lệ,Phường Hòa An,Địa chỉ email không hợp lệ
+Mai Nguyễn,tuan88@gmail.com,0324568567,"Hòa An, Cẩm Lệ, Đà Nẵng",Đà Nẵng,Quận Cẩm Lệ,Phường Hòa An,Đặt hàng thành công
+Mai Nguyễn,mai12@gmail.com,032456,"Hòa An, Cẩm Lệ, Đà Nẵng",Đà Nẵng,Quận Cẩm Lệ,Phường Hòa An,"Số điện thoại không hợp lệ (độ dài từ 8 - 15 ký tự, không chứa ký tự đặc biệt và khoảng trắng)
+"
